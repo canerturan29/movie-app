@@ -1,0 +1,4 @@
+.DashboardContainer{
+    display: grid;
+    grid-template-columns: repeat(3, minMax(0, 1fr));
+}
